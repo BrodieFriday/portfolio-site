@@ -15,6 +15,6 @@ export default [
         year: '2022',
         title: 'Rock Racer',
         duration: 'Python',
-        details: 'Terminal quiz game that uses ASCII art to display progress as correct answers are submitted'
+        details: 'Terminal quiz game that uses ASCII art to display progress as correct answers are submitted.'
     },
 ]
